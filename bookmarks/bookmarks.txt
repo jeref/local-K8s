@@ -1,3 +1,5 @@
 https://jhooq.com/14-steps-to-install-kubernetes-on-ubuntu-18-04-and-16-04/
 
-
+21/07/2022
+network-config !
+https://linoxide.com/configure-static-ip-address-on-ubuntu-20-04
